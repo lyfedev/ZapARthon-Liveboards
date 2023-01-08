@@ -16,5 +16,5 @@ Instead of the main Zap AR link, our service is better accessed by one of the QR
 
 
 And here are the mocked up flyers.
-![Set 1]([https://lh-apl-images.s3.amazonaws.com/allqrs.png](https://lh-apl-images.s3.amazonaws.com/slidegroup_1.png)
-![Set 2]([https://lh-apl-images.s3.amazonaws.com/allqrs.png](https://lh-apl-images.s3.amazonaws.com/slidegroup_2.png)
+![Set 1](https://lh-apl-images.s3.amazonaws.com/slidegroup_1.png)
+![Set 2](https://lh-apl-images.s3.amazonaws.com/slidegroup_2.png)
